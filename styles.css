@@ -1,0 +1,22 @@
+#favourites{
+    font-size:2em ;
+}
+.side-bar{
+    width: 400px;
+    position: relative;
+    top: 0px;
+    bottom: 0px;
+}
+#id{
+    font-size: 3em;
+}
+#celery{
+    background-color:blue;
+    color: white;
+}
+.list-group-item{
+    color: blue;
+    align-content: ;
+    
+}
+
